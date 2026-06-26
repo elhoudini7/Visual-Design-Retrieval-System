@@ -1,0 +1,33 @@
+Image Upload
+
+↓
+
+Backend
+
+↓
+
+Image Processing
+
+↓
+
+Color Module
+
+↓
+
+Layout Module
+
+↓
+
+Style Module
+
+↓
+
+Embedding Module
+
+↓
+
+Similarity Search
+
+↓
+
+Dashboard

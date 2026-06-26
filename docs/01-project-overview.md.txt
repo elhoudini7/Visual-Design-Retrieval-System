@@ -1,0 +1,7 @@
+Problem
+
+Designers often have no structured way to analyze a visual design.
+
+Goal
+
+Build a computer vision system capable of extracting structured visual information and retrieving visually similar designs.

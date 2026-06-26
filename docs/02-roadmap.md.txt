@@ -1,0 +1,32 @@
+Phase 0
+Planning
+
+Phase 1
+Frontend + Backend Setup
+
+Phase 2
+Image Upload
+
+Phase 3
+Color Analysis
+
+Phase 4
+Layout Detection
+
+Phase 5
+Hierarchy Detection
+
+Phase 6
+Style Detection
+
+Phase 7
+Embeddings
+
+Phase 8
+Similarity Search
+
+Phase 9
+Dashboard
+
+Phase 10
+Deployment
